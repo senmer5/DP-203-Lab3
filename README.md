@@ -65,7 +65,7 @@ This lab helped me:
 - Perform SQL transformations on semi-structured data.
 - Build data pipelines without relying on a dedicated Spark environment.
 
-## Screenshots 
+## Screenshots
 
 <img width="782" alt="1" src="https://github.com/user-attachments/assets/a5f39439-090a-42dc-9e47-9faeace50680" />
 
